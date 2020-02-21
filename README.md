@@ -42,7 +42,7 @@ resolution on Oy of the scene
 
 **2. Plane with engine**
 
-In this homework I implemented a plane which travels above the sea, avoiding
+In this project I implemented a plane which travels above the sea, avoiding
 obstacles and collecting fuel cans for refilling the fuel bar. Apart from the
 basic implementation requested by this homework, I implemented a custom plane
 movement for going left and right, beside up and down. What I also did is I
@@ -52,7 +52,7 @@ state.
 
 **3. Worms 3D**
 
-In this homework I implemented a brief simulation of the game Worms 3D. For this
+In this project I implemented a brief simulation of the game Worms 3D. For this
 I made use of a texture and its heightmap to create the terrain. I found on the
 Internet a model of the worm from the classic game and I used it. I couldn't
 manage to import it properly with its textures. I implemented the projectile
